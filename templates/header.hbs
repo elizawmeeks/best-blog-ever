@@ -1,0 +1,18 @@
+<main>
+  <nav class="z-depth-0">
+    <div class="nav-wrapper">
+      <a href="#" class="brand-logo grey-text text-darken-1">{{logo}}</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        {{#each links}}
+        <li><a  class="grey-text text-darken-1" href="#!">{{this}}</a></li>
+        {{/each}}
+      </ul>
+    </div>
+  </nav>
+  <div id="header_image" class="row" style="background-image: url({{img}})">
+    <div id="header_text" class="col s12">
+      <h2 class="center-align">{{name}}</h2>
+      <h3 class="center-align">{{occupation}}</h3>
+    </div>
+  </div>
+</main>

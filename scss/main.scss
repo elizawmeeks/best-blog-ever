@@ -1,0 +1,43 @@
+$primary-color: #F3DAF2;
+$secondary-color: #2C292B;
+$tertiary-colof: #D3B100;
+$flower-height: 458px;
+
+@import url('https://fonts.googleapis.com/css?family=Righteous|Varela|Varela+Round');
+body {
+	font-family: "Varela Round", sans-serif;
+}
+nav{
+	background-color: $primary-color;
+}
+nav .brand-logo{
+	font-family: 'Righteous', cursive;
+	margin-left: 15px;
+}
+h2 {
+	font-family: "Varela", sans-serif;
+	margin-bottom: 5px;
+}
+h3 {
+	font-size: 1.25em;
+	margin-top: 0;
+}
+h2, h3, .golden {
+	color: $tertiary-colof;
+}
+
+.page-footer {
+	background-color: $primary-color;
+}
+
+#header_image{
+	min-height: $flower-height;
+	background-repeat: no-repeat;
+}
+#header_text{
+	margin-top: 325px;
+}
+#profilePic{
+	max-height: 100px;
+	border-radius: 50%;
+}

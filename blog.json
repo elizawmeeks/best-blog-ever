@@ -1,0 +1,45 @@
+{
+    "about": {
+        "logo": "About Me",
+        "name": "Eliza Meeks",
+        "text": "Hello! Welcome to my blog!",
+        "img": "img/profile-pic.jpg",
+        "img_id": "profilePic"
+    },
+    "blog": [{
+            "entry":"<p>This week was information overload. We did browserify, promises, handlebars, with a dollop of sass and grunt followups on top. Brenda's still threatening to do something called lo-dash.</p><p>I've been struggling with the syntax in browserify for the last two exercises, but I think I'm starting to get a handle on what's been going wrong for me. I'm about to browserify Music History 6, so hopefully everything will work more smoothly this time.</p><p>I'm feeling more caught up on exercises this week, probably mostly because there are about half as many exercises in this milestone than there were in the last one.</p>",
+            "author":"Eliza W Meeks",
+            "date":"May 12, 2017",
+            "title":"NSS Bootcamp Week #6",
+            "keywords":""
+        },
+        {
+            "entry":"<p>Week Five we spent most of the week working on our Chatty Project. I worked with Chaz and Matt, and we were able to achieve MVP on the first day. We spent the second day nailing out all of the bonus goals and styling the page (it has kitty paw prints up the side of the page, it's so cute). The third day, there were still some groups working on MVP, so Greg (the TA) slacked us some instructions to figure out Firebase and make our app update from a database. That was a challenge, but we were able to get it to populate from Firebase as well as update the database when we posted.</p><p>The rest of the week, we started jquery and Grunt, then had a lab day. It was a long, challenging week, but I felt successful at the end of it.</p><p>I was also able to complete my milestone challenge this week, which was good. It wasn't nearly as hard as some of the exercises seemed, so I must be getting somewhere.</p>",
+            "author":"Eliza W Meeks",
+            "date":"May 5, 2017",
+            "title":"NSS Bootcamp Week #5",
+            "keywords":""
+        },
+        {
+            "entry":"<p>I missed blogging week #3 because I spent the second half of Friday volunteering with Comcast Cares Day and Operation Standup to help beautiful some of the homes that Operation Stand Up has for homeless veterans. I kind of had it in the back of my mind that I was going to blog week three this week, but I blinked and it was Friday again.</p><p>Week three we continued with Javascript Event Listeners, array methods, and introduced Bootstrap and Materialize. I've played around some with Materialize and am beginning to see it's strengths and limitations. It's pretty and it makes things very easy to style. I think I still need more experience with making it work, so I'll continue playing with it.</p><p>This week we covered IIFEs (modularizing javascript) XHR requests (requesting data from large data files), and had a group project where we built a translator. My group project went well, and teammate Adam and I almost cracked importing a translator API to supplement our lexicons. I'm learning a lot about working together as a team with different coding styles and personalities.</p><p>I got a little behind where I want to be mentally with exercises this week because I got a terrible cold, so I'm hoping I can spend the lab day today getting back where I want to be.</p>",
+            "author":"Eliza W Meeks",
+            "date":"April 28, 2017",
+            "title":"NSS Bootcamp Week #4",
+            "keywords":""
+        },
+        {
+            "entry":"<p>We really started hitting Javascript this week. I struggled with it some, primarily because I hadn't caught up on the exercises. But Thursday evening I decided to really hit the Javascript exercises hard and I'm feeling more confident this morning. I was able to figure out the Javascript for the group project, which makes me feel like I'm really starting to get the hang of it. More practice is definitely needed, but I'm feeling more solid now.</p><p>The second half of this week also featured our first group projects, and then first group project part two. We had to do it twice. It was a website for a fake client where we populated the products page using Javascript. I was initially group lead and my first group project came together really well, and with Madeline as the styling expert it really looked beautiful. Our biggest challenge was (surprise), the Javascript. Our Javascript functioned, but it didn't loop and wasn't DRY. I had been thinking to myself if I were to do it again that I'd start with the Javascript. I guess this was fortunate because the cohort struggled enough that they decided we needed to do it again, so I got a chance to do it. Project One Part Two features much more beautiful Javascript and less beautiful styling (Madeline is not in my second group), so we're getting six of one half a dozen of another.</p><p>I was able to finish all of the exercises for the first milestone. I'm pleased because I lowkey want to be the first person to finish all the exercises.</p>",
+            "author":"Eliza W Meeks",
+            "date":"April 14, 2017",
+            "title":"NSS Bootcamp Week #2",
+            "keywords":""
+        },
+        {
+            "entry":"<p>Thus began the journey at Nashville Software school: an orientation day, followed immediately by the presentation of the capstone projects of Cohort 18 (the cohort immediately preceding ours), then intro to HTML, CSS, and JavaScript.</p><p>So far the HTML, CSS, and Javascript that has been covered is all right from the pre work, so I'm feeling fairly confident about it. Doing the exercises has proved validating in terms of proving that I know this stuff and can do it with relative ease. Using the terminal was a little surprising the first day--I hadn't gotten that far in the prework--but I seem to have gotten the hang of it. It's really cool to see past the GUI and into what's actually going on in the computer.</p><p>One of the aspects that I had been totally unfamiliar with is using git and gitHub, but I think I'm getting the hang of the one-way street and the process. After we had downloaded git, Twitter Friend Smingleigh told me to never use git push master force. I joked about using git push master jedi, but now a few days later I actually understand what git push master force is and why I shouldn't use it.</p><p>Cohort 18 presented the capstone projects from their first three months, giving us an idea of what we might be able to make at the end of twelve weeks. It's gotten me brainstorming what app I want to make. I came up with a couple of ideas: an app that curates color palettes using hex code and common HTML names for easy color palettes that you don't have to use a color picker to find the colors. I'm particularly interested in the idea of doing it with color names to increase accessibility for color blind individuals.</p><p>The other idea I came up with (which is, frankly, what I'm more likely to do) is an app for tracking FPIES triggers, reactions, and all of the other fun things concomitant with FPIES. I'm thinking of making an app where you can login, and create profiles for each child with FPIES. You can then make a list of triggers, a list of safe foods, track trials, reactions, or any medical information or ER notes. I think it could be useful in keeping track of everything you might need to track with FPIES. The goal would ultimately be a mobile app. I need to make a Trello to start listing ideas. I figure if I've got an eye on what I want to make, I can keep track of the types of coding and procedures I need to use to make it happen.</p>",
+            "author":"Eliza W Meeks",
+            "date":"April 7, 2017",
+            "title":"NSS Bootcamp Week #1",
+            "keywords":""
+        }
+    ]
+}

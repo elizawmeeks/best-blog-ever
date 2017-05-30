@@ -1,0 +1,26 @@
+{
+  "name": "grunt-starter",
+  "version": "1.0.0",
+  "description": "Demo for grunt",
+  "main": "index.html",
+  "author": "Eliza Meeks",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^14.3.0",
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "hbsfy": "^2.7.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "matchdep": "^1.0.1",
+    "materialize": "^1.0.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.10",
+    "materialize": "^1.0.0",
+    "materialize-css": "^0.98.2"
+  }
+}
